@@ -1,12 +1,11 @@
 # WorkSpace
 
 # DS	
-  [演示环境(50）](http://192.168.70.50/danastudio/#/) (http://58.240.115.226:5080/danastudio/#/)
-	
-	预览版(23)	 http://192.168.2.23/danastudio/#/	 http://58.240.115.226:2380/danastudio/#/
-	测试版(25)	 http://192.168.2.25/danastudio/#/	 http://58.240.115.226:2580/danastudio/#/
-	数据质量预览版	http://192.168.90.112/danastudio/#/home	http://58.240.115.226:8012/danastudio/#/
-	4.6 研发版本	http://192.168.80.24/ui/#/collection/offline	
+  [演示环境内网(7050）](http://192.168.70.50/danastudio/#/) [演示环境外网(5080）](http://58.240.115.226:5080/danastudio/#/)
+  [预览版内网(2.23)](http://192.168.2.23/danastudio/#/)	  [预览版外网(2380)](http://58.240.115.226:2380/danastudio/#/) 
+  [测试版内网(2.25)](http://192.168.2.25/danastudio/#/)	 [测试版外网(2580)](http://58.240.115.226:2580/danastudio/#/) 
+  [数据质量预览版内网](http://192.168.90.112/danastudio/#/home)	[数据质量预览版外网](http://58.240.115.226:8012/danastudio/#/) 
+  [4.6 研发版本](http://192.168.80.24/ui/#/collection/offline)	
 			
 			
 			
